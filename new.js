@@ -50,15 +50,51 @@ undefined = NaN
 // console.log(str3)
 // console.log(++"");
 
+
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
 // == check only value but === is a strict check check data type also
 
 // there ara 2 type of data type primituve and non primitive 
 // primitive = Boolean , Number ,BigInt , String, Symbol ,Null ,Undefined
 
 // refrence  (non primitve )= Arrays , Objects , Functions
+// data type of refrence  (non primitve ) is object and for fuction its function object but show as function
+
+
+
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
 
 // JavaScript is a dynamically typed language, meaning that the type of a variable is determined during runtime, not at compile time. 
 // This contrasts with statically typed languages like C++ or Java, where you must explicitly declare the type of a variable
+
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+// // memory
+// let name = "aryna"
+// let id = "jee"
+
+// console.log(`my name is ${name} and my id is ${id}`
+
+// const game = "Aryan "
+
+// console.log(game.repeat(100))
+
+// let new1 = "Aryanchoudhary//aryan%200vht"
+
+
+// // console.log(new1.replace('200', '100000'))
+// console.log(new1.includes('aryan'))
