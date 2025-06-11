@@ -15,13 +15,13 @@
 console.log("hm h aryann")*/
 // console.log(typeof null) //null ka type object aata h , and undefined ka type undifined hi aata h 
 // to convert some variable into other variable 
-let age = "20"
+/*let age = "20"
 
 console.log(typeof age)
 
 let true_age =Number(age) // to convert into other first letter nof the data type must be capital 
 
-console.log(typeof true_age)
+console.log(typeof true_age)*/
 
 /* convertion of data types into Number
 "33" = 33
@@ -39,3 +39,26 @@ undefined = NaN
  "" = false
  
 */
+
+// // operations 
+// let str ="Aryan "
+
+// let str2 =" ji"
+
+// let str3 = str + str2
+
+// console.log(str3)
+// console.log(++"");
+
+// == check only value but === is a strict check check data type also
+
+// there ara 2 type of data type primituve and non primitive 
+// primitive = Boolean , Number ,BigInt , String, Symbol ,Null ,Undefined
+
+// refrence  (non primitve )= Arrays , Objects , Functions
+
+
+
+
+// JavaScript is a dynamically typed language, meaning that the type of a variable is determined during runtime, not at compile time. 
+// This contrasts with statically typed languages like C++ or Java, where you must explicitly declare the type of a variable
